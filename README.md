@@ -18,4 +18,4 @@ Top5AttractionsReviews.twb --> Analysis dashboard of tourist reviews for the top
 
 ThingsToDo.twb --> Analysis dashobard of tourist activities in Thessaloniki
 
-SentimentAnalysis_KeywordExtraction.ipynb --> Python code to perform sentiment analysis and keyword extraction on reviews of Thessaloniki's top 5 attractions
+SentimentAnalysis.ipynb --> Python code to perform sentiment analysis and keyword extraction on reviews of Thessaloniki's top 5 attractions
